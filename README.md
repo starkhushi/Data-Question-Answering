@@ -4,7 +4,10 @@ also we perform Table Question Answering using tapas-base-finetuned-wtq
 
 ## Demo Video
 
-[![Demo Video](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/starkhushi/Data-Question-Answering/blob/main/Data%20Question%20Answering%20App%20with%20Gemini%20%F0%9F%8C%9F.mp4)
+Check out the demo video of the **Data Question Answering App with Gemini**:
+
+[![Demo Video](https://github.com/starkhushi/Data-Question-Answering/blob/main/assets/demo_thumbnail.png)](https://github.com/starkhushi/Data-Question-Answering/blob/main/Data%20Question%20Answering%20App%20with%20Gemini%20%F0%9F%8C%9F.mp4)
+
 
 
 
