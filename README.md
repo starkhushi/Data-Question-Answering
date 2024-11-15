@@ -6,7 +6,10 @@ also we perform Table Question Answering using tapas-base-finetuned-wtq
 
 Click the link below to watch the demo video of the **Data Question Answering App with Gemini**:
 
-[![Demo Video](https://img.shields.io/badge/Watch-Demo%20Video-blue?style=for-the-badge&logo=github)](https://github.com/starkhushi/Data-Question-Answering/blob/main/Data%20Question%20Answering%20App%20with%20Gemini%20%F0%9F%8C%9F.mp4)
+<video src="https://raw.githubusercontent.com/starkhushi/Data-Question-Answering/main/Data%20Question%20Answering%20App%20with%20Gemini%20%F0%9F%8C%9F.mp4" width="600" controls>
+    Your browser does not support the video tag.
+</video>
+
 
 
 # Tabular Question Answering with TAPAS
